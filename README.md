@@ -8,4 +8,4 @@ I guess
 
 # Edit 
 
-I am now editing a new branch of the orinal repo
+I am now editing a new branch of the orinal repository
