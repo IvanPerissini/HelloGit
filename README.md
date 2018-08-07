@@ -15,4 +15,4 @@ Master branch continues to rise
 
 # Update 0.1
 
-New lines in ReadME
+New lines in ReadME as any live document
