@@ -15,7 +15,7 @@ Master branch continues to rise
 -faster
 
 Edit 1 was here
-Edit 2 was here! (and edit 2 son)
++Edit 2 was here! (and edit 2 son)
 
 # Update 0.1
 
