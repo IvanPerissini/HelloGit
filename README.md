@@ -2,6 +2,6 @@
 
 Creating my first repo!
 
-# That reminds me of LATEX
+# This reminds me of LATEX
 
 I guess
